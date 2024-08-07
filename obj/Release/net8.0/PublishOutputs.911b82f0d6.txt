@@ -1,0 +1,13 @@
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/projeto lh
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/appsettings.Development.json
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/appsettings.json
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/projeto lh.dll
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/projeto lh.deps.json
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/projeto lh.runtimeconfig.json
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/projeto lh.pdb
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/System.Data.SqlClient.dll
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/runtimes/win-arm64/native/sni.dll
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/runtimes/win-x64/native/sni.dll
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/runtimes/win-x86/native/sni.dll
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/rafael/Área de Trabalho/projeto lh/bin/Release/net8.0/publish/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll

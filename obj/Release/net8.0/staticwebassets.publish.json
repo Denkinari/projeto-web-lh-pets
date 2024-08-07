@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "vfHkSNDL/n19SjkPSyj2jWz0GOaCaqfeUXfqrasVr3o=",
+  "Source": "projeto lh",
+  "BasePath": "_content/projeto lh",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "projeto lh/wwwroot",
+      "Source": "projeto lh",
+      "ContentRoot": "/home/rafael/Área de Trabalho/projeto lh/wwwroot/",
+      "BasePath": "_content/projeto lh",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/rafael/Área de Trabalho/projeto lh/wwwroot/index.html",
+      "SourceId": "projeto lh",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/rafael/Área de Trabalho/projeto lh/wwwroot/",
+      "BasePath": "_content/projeto lh",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
